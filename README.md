@@ -12,4 +12,4 @@ Windows UEFI bootkit that loads a generic driver manual mapper without using a U
 This build prevents basic memory based detections and dispenses on mapping the drivers header.
 
 # Note
-This fork is inteded to be used without the "mapper". The targeted driver directly get mapped at boot time.
+This fork is inteded to be used without the "mapper". The targeted driver directly gets mapped at boot time.
